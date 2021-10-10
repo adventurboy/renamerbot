@@ -60,7 +60,7 @@ async def start(bot, update):
         text=Translation.START_TEXT.format(update.from_user.first_name, Config.USER_NAME), 
         parse_mode="html",
         #reply_to_message_id=update.message_id
-        video="https://telegra.ph/file/4d5c17416a75b9768ecf5.mp4",
+        photo="https://telegra.ph/file/26f243e821ab66213b249.jpg",
         reply_markup=InlineKeyboardMarkup(
         [
           [

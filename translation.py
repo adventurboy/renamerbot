@@ -66,8 +66,8 @@ Please short your file name and try again!"""
 
 **👨‍💻 Developer:** [Noufal](https://t.me/noufalpowerbot)
 
-**📮 Channel:** [NS BOT UPDATES](https://t.me/AlphaBotzz)
+**📮 Channel:** [Alpha Botzz](https://t.me/AlphaBotzz)
 
-**👥 Group:** [NS BOT SUPPOTERS](https://t.me/tg_bots_disccurssions)
+**👥 Group:** [alpha disscousion](https://t.me/tg_bots_disccurssions)
 
 **💻 Source Code:**[click here](https://github.com/adventurboy)"""

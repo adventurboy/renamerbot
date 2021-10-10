@@ -64,7 +64,6 @@ async def start(bot, update):
         [
           [
           InlineKeyboardButton('My Father 👨‍💻', url=myfather)
-          InlineKeyboardButton("🎈Botzz Channel✔", url="https://t.me/AlphaBotzz"),
           ]
         ]
        )
